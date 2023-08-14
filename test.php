@@ -1,0 +1,7 @@
+<?
+
+
+// comments
+
+
+echo "hello\n";
